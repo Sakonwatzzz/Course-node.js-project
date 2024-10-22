@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "productTitle": "Course node.js",
+    "productDescription": "Course description",
+    "productPrice": 99
+  },
+  {
+    "id": 1,
+    "productTitle": "Course node.js 2",
+    "productDescription": "Course description",
+    "productPrice": 4999
+  },
+  {
+    "id": 2,
+    "productTitle": "Course node.js 3",
+    "productDescription": "Course description",
+    "productPrice": 6353
+  },
+  {
+    "id": 3,
+    "productTitle": "Course node.js 4",
+    "productDescription": "Course description",
+    "productPrice": 3773
+  },
+  {
+    "id": 4,
+    "productTitle": "Course node.js 5",
+    "productDescription": "Course description",
+    "productPrice": 2225
+  }
+]
